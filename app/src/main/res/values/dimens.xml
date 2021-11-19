@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">8dp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="bigmargin">150dp</dimen>
+    <dimen name="titre">18dp</dimen>
+    <dimen name="spinnerminwidth">100dp</dimen>
+</resources>
